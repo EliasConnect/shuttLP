@@ -28,8 +28,9 @@ body{
 
 .sociais{
     display: flex;
-    gap: 25px;
     justify-content: space-between;
+    align-items: center;
+    gap: 25px;
     max-width: 272.04px;
 }
 
