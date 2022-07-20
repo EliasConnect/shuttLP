@@ -31,7 +31,8 @@ body{
     justify-content: space-between;
     align-items: center;
     gap: 25px;
-    max-width: 272.04px;
+    /* max-width: 272.04px; */
+    max-width: 200px;
 }
 
 @media screen and (max-width: 6000px) {
